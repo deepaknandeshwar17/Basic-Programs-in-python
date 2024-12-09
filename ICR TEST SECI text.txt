@@ -1,0 +1,350 @@
+PAGE 1
+{
+  "company": "SOLAR ENERGY CORPORATION OF INDIA LIMITED",
+  "document_type": "MEDICAL EXAMINATION REPORT",
+  "document_purpose": "(For use and retention in HR Department, SECI)",
+  "part": "PART - I",
+  "post_selected": "Engineer",
+  "ref_no": "5721205",
+  "name": "Kunal Basa",
+  "father_husband_name": "Prathmesh Basa",
+  "date_of_birth": "01/05/2002",
+  "place_of_birth": "Kolkata",
+  "age": "22",
+  "permanent_address": "Bandra, Mumbai Maharashtra, Pin:- 401 000",
+  "medical_history": {
+    "Question":"Yes","No"[	
+    "ear_disease": "No",
+    "eye_disease": "No",
+    "night_blindness": "Yes",
+    "colour_blindness": "Yes",
+    "mouth_cavity_disease": "No",
+    "lung_disease": "No",
+    "tuberculosis": "No",
+    "mental_illness_neurological_disorder_epilepsy_headaches": "Yes",
+    "fainting_attacks": "No",
+    "high_blood_pressure": "No",
+    "stroke": "No",
+    "heart_disease": "No",
+    "diabetes": "Yes",
+    "liver_disease": "No",
+    "kidney_disease": "No",
+    "leprosy": "No",
+    "cancer": "No"
+   ]
+  }
+  "page_info": "SECI/ Medical Examination Page 1 of 10"
+}
+
+
+
+
+PAGE 2
+{
+  "questions": [
+    { "question": "Any deformities in extremities", "answer": "No" },
+    { "question": "Any abdominal disease", "answer": "No" },
+    { "question": "Any piles, fissure, hydrocele", "answer": "No" },
+    { "question": "If answer to any of the above is YES, Please give details", "answer": "-" },
+    { "question": "Any other disease of accident requiring confinement to bed and medical or surgical treatment? If YES, Please give details", "answer": "-" },
+    { "question": "Are you on any prolonged medication", "answer": "-" },
+    { "question": "Have you been examined and declared unfit for Government service by a medical officer / medical board within the last three years? If YES, Please give details", "answer": "No" },
+    { "question": "When you were last vaccinated?", "answer": "1/02/2021" },
+    { "question": "Which vaccination?", "answer": "Covishield" }
+  ],
+  "family_details": {
+    "father": {
+      "age_if_living": "50",
+      "state_of_health": "Healthy",
+      "age_at_death": "-",
+      "cause_of_death": "-"
+    },
+    "mother": {
+      "age_if_living": "45",
+      "state_of_health": "Healthy",
+      "age_at_death": "-",
+      "cause_of_death": "-"
+    },
+    "brothers": {
+      "living": "-",
+      "age":"-",
+      "state_of_helath":"-",
+      "No._of_brothers_dead": "-",
+      "ages_at_death":"-",
+      "cause_of_death":"-"
+    },
+    "sisters": {
+      "living": "-",
+      "age":"-",
+      "state_of_helath":"-",
+      "No._of_sisters_dead": "-",
+      "ages_at_death":"-",
+      "cause_of_death":"-"
+    }
+  },
+  "page_info": "SECI/ Medical Examination Page 2 of 10"
+}
+
+
+
+
+PAGE 3
+{
+  "marital_Status": "Single",
+  "number_Of_Children": {
+    "male": "-",
+    "female": "-"
+  },
+  "family_Planning_History": "Not Applicable",
+  "additional_Information": "None",
+  "candidate_Signature": "KB",
+  "signed_In_Presence_Of": "Nigel",
+  "dateSigned_By_Candidate": "4/12/2023",
+  "signature_Of_Medical_Officer": "QM",
+  "date_Signed_By_Medical_Officer": "4/12/2023",
+  "page_info": "SECI/ Medical Examination Page 3 of 10"
+}
+
+
+
+
+PAGE 4
+{
+  "part": "PART - II",
+  "identification_marks": {
+    "mark_1": "mark above right eye",
+    "mark_2": "mole on left palm"
+  },
+  "appearance": {
+    "age": "22",
+    "physique": "Well built",
+    "temperament": "Sober",
+    "marks_of_primary_vaccination": "Absent",
+    "deformities": "None",
+    "operation_scars": "None"
+  },
+  "general_physical_examination": {
+    "height_without_shoes": "160 cms",
+    "weight_without_shoes": "70 kgs",
+    "chest_full_expiration": "30 cms",
+    "chest_full_inspiration": "50 cms",
+    "abdomen_over_navel_stripped": "60 cms",
+    "bmi": "21",
+    "lymph_nodes": "20",
+    "thyroid": "50",
+    "additional_findings": "None"
+  },
+  "ent_dental_examination": {
+    "teeth": "missing",
+    "gums": "unhealthy",
+    "tongue": "clean",
+    "throat": "Normal",
+    "nose": "Normal",
+    "hearing": "Normal",
+    "tympanic_membrane":{"RE":"Normal" , "LE":"Normal"},
+    "ear_discharge": "No",
+    "other_normalities":"-"
+  },
+  "eyes_vision": {
+    "distant_vision_without_glasses": { "right_eye": "-", "left_eye": "-" },
+    "distant_vision_with_glasses": { "right_eye": "-", "left_eye": "-" },
+    "near_vision_without_glasses": { "right_eye": "-", "left_eye": "-" },
+    "near_vision_with_glasses": { "right_eye": "fail", "left_eye": "fail" },
+    "power_of_glasses": "-",
+    "contact_lenses": "No",
+    "suffering_from_squint_or_eye_condition": "No",
+    "field_of_vision": "-",
+  },
+  "page_info": "SECI/ Medical Examination Page 4 of 10"
+}
+
+
+
+
+PAGE 5
+{
+    "colour_vision": "-",
+    "night_blindness": "-",
+    "fundus_examination": "No",
+    "any_other_findings":"None"
+  },
+  "respiratory_system": {
+    "form_of_chest": "Normal",
+    "lungs": "Normal",
+    "respiration": "Normal",
+    "breath_sounds": "Normal"
+  },
+  "cardio_vascular_system": {
+    "pulse_upper_lower_extremities": "Normal",
+    "position_of_heart": "Normal",
+    "rate_rhythm": "70/120",
+    "sounds_murmurs": "No",
+    "blood_vessels": "Normal",
+    "ecg_report": "-",
+    "blood_pressure": { "systolic": "mmHg-", "diastolic": "mmHg-" }
+  },
+  "alimentary_system": {
+    "Liver": "-",
+    "spleen": "-",
+    "Abnormalities(piles,Fistula,peptic_ulcer,etc)": "None",
+    "Any_organomegly": "None",
+  },
+  "Genito_Urinary_System": {
+    "urine":{"specific_graviy":"-","Albumin-":"Present","Sugar":"Absent","Microscopic_pus_cells":"-"}
+    "Hernia":"Absent",
+    "Evidence_of_V.D":"-",
+    "Scrotum(for_males)":"Normal",
+    "Testicles(for_males)":"Normal"
+  },
+  "Reproductive_system(for_female_candidates)": {
+    "History_of_menstrual_cycle": "Regular",
+    "Breast": "Normal",
+    "Pregnancy_with_duration": "Never"
+  },
+  "page_info": "SECI/ Medical Examination Page 5 of 10"
+}
+
+
+
+
+
+PAGE 6
+{
+    "local_pv_ps_examination": "-",
+    "lmp": "-"
+  },
+  "nervous_system": {
+    "mental_condition": "Unstable",
+    "reflexes": "Abnormal",
+    "pupils": { "normal": "Yes", "light_reflexes": "Present" },
+    "gait": "-",
+    "other_evidence_of_disease": "-"
+  },
+  "mandatory_investigations": {
+    "blood_examination": { "cbc": "Good", "blood_group": "-", "fbs": "-", "hb%": "-","PPBS":"-" },
+    "urine_routine_microscopic": "Normal",
+    "stool": "-",
+    "ski_chest_view": "",
+    "ecg": "-"
+  },
+  "other_investigations": {
+    "sputum_test": "-",
+    "s_creatinine": "-",
+    "s_urea": "-",
+    "ultrasound_abdomen": "-",
+    "vdrl": "-",
+    "2d_echo_colour_doppler": "-",
+    "tmt_stress_ecg": "-",
+    "pulmonary_function_test": "-",
+    "liver_function_test": "",
+    "glycosylated_hemoglobin": "-",
+    "other_tests": "-"
+  },
+  "Diseases_found":"-",
+  "chronic/non_chronic":"-",
+  "Treatable/untreatable":"-",
+  "candidate":{"name":"kunal","post":"engineer","medically_fit_unfit_temporarily_unfit":"-"},
+  "candidate":{"name":"kunal","post":"engineer"},
+  "Remarks":"-",
+  "Authorised_medical_officer":"-",
+  "candidate_signature":"-",
+  "medical_officer_signature":"signature",
+  "date":"4/12/24",
+  "page_info": "SECI/ Medical Examination Page 6 of 10"
+}
+
+
+
+
+PAGE 7
+{
+  "part":"PART - III",
+  "company": "SOLAR ENERGY CORPORATION OF INDIA LIMITED",
+  "name_of_candidate":"kunal basa",
+  "post_selected":"engineer",
+  "reference_number":"5012075",
+  "document_type":"MEDICAL CERTIFICATE OF FITNESS ON FIRST ENTRY INTO SECI's SERVICE
+(For retentionby HR Department,SECT",
+  "candidate_fitness":{"name":"prathamesh","parental_relation":"-","any_disease":"none","medical_result":"fit"},
+  "age_as_per_candidate": "22",
+  "age_as_per_appearance": "22"
+  "Identification_marks":{"mark1":"mentioned above","mark2":"mentioned above"},
+  "candidate_signature":"signature",
+  "date":"-",
+  "medical_officer_signature":"signature",
+  "page_info": "SECI/ Medical Examination Page 7 of 10"
+
+}
+
+
+
+
+PAGE 8
+{
+  "part":"PART - IV",
+  "company": "SOLAR ENERGY CORPORATION OF INDIA LIMITED",
+  "Letter_to_mr_mrs":"Jason"
+  "subject":"Medical Examination",
+  "medical_examination_date":"22/1/25",
+  "fitness":"temporariliy unfit",
+  "re-examination_appearance_in":"3 weeks",
+  "medical_officer_signature":"signature",
+  "CC":"HR Department,SECI",
+  "page_info": "SECI/ Medical Examination Page 8 of 10"
+}
+
+
+
+
+PAGE 9
+{
+  "part":"PART - V",
+  "unit":"-",
+  "selected_post":"-",
+  "reference_number":"-",
+  "document_type":"MEDICAL CERTIFICATE OF FITNESS BY SPCIALISTS MEDICAL BAORD
+ON FIRST ENTRY INTO SECI'S SERVICE
+(For retentionby HR Department,SECI)",
+  "candidate":{"name":"Jason","parental_relation":"-","relation_name":"Jason"},
+  "medical_fit_status": "Fit",
+  "age_as_per_candidate": "22",
+  "age_as_per_appearance": "22"
+  "Identification_marks":{"mark1":"none","mark2":"none"},
+  "candidate_signature":"signature",
+  "date":"-",
+  "certification_by": {
+    "specialist_member_1": "signature",
+    "specialist_member_2": "signature",
+    "specialist_member_3": "signature"
+  },
+  "page_info": "SECI/ Medical Examination Page 9 of 10"
+}
+
+
+
+
+PAGE 10
+{
+  "company": "SOLAR ENERGY CORPORATION OF INDIA LIMITED",
+  "reference_C_HR_Rectt.":"-",
+  "date":"-",
+  "candidate_name": "Kunal Basa",
+  "medical_examination_date": "3/10/23",
+  "medical_examinaion_place":"mumbai",
+  "result": "Medically Unfit",
+  "reason_for_unfitness": "Details outlined in the medical report",
+  "action_taken": {
+    "candidature_status": "Rejected",
+    "post_rejected":"Engineer",
+    "appointment_offer": "Automatically withdrawn and cancelled"
+  },
+  "communication": {
+    "addressed_to": "Candidate",
+    "from": "Solar Energy Corporation of India Ltd",
+    "signatory": {
+      "signature":"signature",
+      "position": "HR Representative",
+      "name": "PO/ SR.PO/ DY. MGR.(HR)"
+    },
+  "page_info": "SECI/ Medical Examination Page 10 of 10"
+}

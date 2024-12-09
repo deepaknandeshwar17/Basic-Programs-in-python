@@ -1,0 +1,287 @@
+Page_1
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "document_type": "MEDICAL EXAMINATION REPORT",
+    "candidate_name": "Anjali Sharma",
+    "course_name": "B.Tech Computer Science",
+    "entrance_exam_roll_no": "1074511002",
+    "rank": "118",
+    "category": "General",
+    "address": "Apartment-10 ABC Road, Bandra, Mumbai, Maharashtra - 400050",
+    "session": "2024",
+    "identification_marks": [
+        "Mark above left eyebrow",
+        "Mole on right palm"
+    ],
+    "page_number": "26"
+    
+}
+
+Page_2
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "candidateName": "Anjali Sharma",
+    "document_type": "CANDIDATE'S STATEMENT AND DECLARATION",
+    "name_block_letter": "ANJALI SHARMA",
+    "fatherName": "Ramesh Sharma",
+    "dateOfBirth": "10th June 2006",
+    "birthPlace": "Mumbai",
+    "maritalStatus": "Single",
+    "majorDiseasesSuffered": "N/A",
+    "currentTreatment": "No",
+    "familyDiseases": {
+    "insanity": "No",
+    "tuberculosis": "No",
+    "diabetesMellitus": "No",
+    "allergicDisorders": "No",
+    "gout": "No",
+    "asthma": "No",
+    "fits": "No",
+    "excessiveBleeding": "No"
+    },
+    "allergicToDrugs": "No",
+    "historyOfDiseases": {
+    "smallPox": "No",
+    "fever": "No",
+    "glandSuppuration": "No",
+    "asthma": "No",
+    "heartDisease": "No",
+    "faintingAttacks": "No"
+    },
+    "otherDiseasesOrAccidents": "No",
+    "deafness": "No",
+    "nervousness": "No",
+    "familyTrendDiseases": "N/A",
+    "pageNumber": "27"
+ }
+  
+
+Page_3
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "immunizationDetails": {
+      "historyOfVaccination": "Yes",
+      "hepatitisB": "Yes",
+      "polio": "Yes",
+      "diphtheria": "No",
+      "tetanus": "Yes",
+      "tuberculosis": "No",
+      "anyOtherVaccination": "COVID-19"
+    },
+    "declaration": {
+      "candidateSignature": "Anjali",
+      "chairmanSignature": "Charirman"
+    },
+    "pageNumber": "28"
+}
+
+
+Page_4
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "department": "DEPARTMENT OF GENERAL MEDICINE",
+    "candidateName": "Anjali Sharma",
+    "physicalExamination": {
+        "generalAppearance": "Good",
+        "height": "160.6 cm",
+        "weight": "55.2 kg",
+        "pulse": "70 bts/min",
+        "bloodPressure": "130/74",
+        "oralHygiene": "Good",
+        "cyanosis": "Absent",
+        "pallor": "Absent",
+        "icterus": "Absent",
+        "pedalEdema": "Absent",
+        "clubbing": "Absent"
+    },
+    "generalExamination": {
+        "chestCircumference": {
+            "inspiration": "30 cm",
+            "expiration": "33 cm"
+        },
+        "respiratorySystem": "Pass",
+        "circulatorySystem": "Pass",
+        "heartAnyOrganicLesions": "-",
+        "ecg": "Good",
+        "place": "Mumbai",
+        "nervousSystem": "Pass",
+        "locoMotorSystem": "N/A",
+        "skin": "N/A"
+    },
+    "remarks": "Overall Health - Good",
+    "signature": "XYZ",
+    "pageNumber": "29 | Page"
+}
+
+
+Page_5
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "candidateName": "Anjali Sharma",
+    "departmentOfOphthalmology": {
+        "vision": {
+            "distantVision": {
+                "withoutGlasses": {
+                    "leftEye": "-3.80",
+                    "rightEye": "-2.50"
+                },
+                "withGlasses": {
+                    "leftEye": "6/6",
+                    "rightEye": "6/6"
+                }
+            },
+            "nearVision": {
+                "withoutGlasses": {
+                    "leftEye": "N/A",
+                    "rightEye": "N/A"
+                },
+                "withGlasses": {
+                    "leftEye": "N/A",
+                    "rightEye": "N/A"
+                }
+            },
+            "colorVision": {
+                "normal": {
+                    "leftEye": "-",
+                    "rightEye": "-"
+                },
+                "abnormal": {
+                    "leftEye": "Yes",
+                    "rightEye": "Yes"
+                },
+                "leftEye": "Abnormal",
+                "rightEye": "Normal"
+            }
+        },
+        "diseases": "Yes",
+        "colorVision": {
+                "status":"Abnormal",
+                "mention" : "Not able to correctly identify colors"
+        },
+        "fieldOfVision": {
+                "status":"Normal",
+                "mention" : "N/A"
+        },
+        "visualAcuity": "-",
+        "remarks": "Cause of action for color blindness",
+        "signature": "ABCD"
+    },
+    "departmentOfEnt": {
+        "earsInspection": "Pass",
+        "hearing": {
+            "rightEar": "Good",
+            "leftEar": "Good"
+        },
+        "glandsThyroid": "Pass",
+        "remarks": "-",
+        "angleSquintAxisHearing": {
+            "leftEar":{
+                "normal":"N/A",
+                "abnormal":"-"
+            },
+            "rightEar":{
+                "normal":"N/A",
+                "abnormal":"-"
+            }
+        }
+    },
+    "remarks": "N/A",
+    "signature": "PQR",
+    "pageNumber": "30"
+}
+
+
+Page_6
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "department": "DEPARTMENT OF GENERAL SURGERY",
+    "candidateName": "Anjali Sharma",
+    "abdomen": {
+            "tenderness": "Pass",
+            "hernia": "Pass",
+            "palpableLiver": "Pass",
+            "spleen": "Pass",
+            "kidneys": "Pass",
+            "anyOther": "N/A"
+    },
+    "genitoUrinarySystem": {
+            "hydrocele": "Pass",
+            "varicocele": "Pass",
+            "fistula": "Pass",
+            "hemorrhoids": "Pass",
+            "varicoseVein": "Pass"
+    },
+    
+    "lymphadenopathyPalpable": {
+        "remarks": "Fit"
+    },
+    "signature": "Mahesh",
+    "pageNumber": "31"
+}
+
+Page_7
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "department": "DEPARTMENT OF OBSTETRICS AND GYNAECOLOGY",
+    "candidateName": "Anjali Sharma",
+    "gynecologyHistoryAndExamination": {
+        "status": "Single",
+        "ageAtMenarche": "18",
+        "lmp": "-",
+        "pcos": "Yes",
+        "lastGynecologistVisit": "No",
+        "lastAbdominalUltrasound": "Yes",
+        "pastTuberculosisIntakeOrATT": "No",
+        "pastGynecologicSurgeryOrChemotherapy": "No",
+        "anyGynecologicAbnormality": "No",
+        "associatedDysmenorrhea": "None",
+        "examination": "None",
+        "lymphadenopathyOrScarsOrOtherDeformities": "N/A",
+        "breastsAndAxillaofMass/Abnormal": "N/A",
+        "abdomen": "-",
+        "menstrualCycle": {
+            "length": "7 days",
+            "durationOfFlow": "24 hrs",
+            "regularity": "Yes"
+        }
+    },
+    "signature": "K. S. Patel",
+    "pageNumber": "32"
+}
+
+Page_8
+
+{
+    "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR",
+    "department": "DEPARTMENT OF BIOCHEMISTRY/PATHOLOGY",
+    "candidateName": "Anjali Sharma",
+    "investigations": {
+      "bloodSampleRefNo": "A-127824",
+      "urineSampleRefNo": "C-250145"
+    },
+    "hematology": {
+      "CBC": "No",
+      "LFT": "No",
+      "RFT": "No",
+      "bloodSugar": "Yes",
+      "bloodGroupAndRhFactor": "Yes"
+    },
+    "urineExamination": "Pass",
+    "remarks": "Blood sugar levels rechecked",
+    "signature": "M.N. Vyas",
+    "chestXRayFindings": {
+      "referenceNoAndDate": {
+        "referenceNo": "D-589",
+        "date": "11/11/2024"
+      },
+      "comment": "Pass"
+    },
+    "pageNumber": "33"
+  }
+  

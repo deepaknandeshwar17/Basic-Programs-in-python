@@ -1,0 +1,45 @@
+Page 1
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "document_type": "MEDICAL EXAMINATION REPORT", "candidate_name": "Anjali Sharma", "course_name": "B.Tech. Computer Science", "entrance_examination_roll_no": "1074511002", "rank": "118", "category": "General", "address": "Apartment-10, ABC Road, Bandra, Mumbai, Maharashtra - 400050", "session": "2024", "identification_marks": [ "Mark above left eyebrow", "Mole on right palm" ], "photo_instructions": "Front facing, Holding name & date of Birth against white Background", "page_number": "26 | Page" }
+
+---------------------------------------------------
+
+Page 2
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "REGISTRAR OFFICE, ACADEMIC SECTION", "candidate_name": "Anjali Sharma", "form_title": "CANDIDATE'S STATEMENT AND DECLARATION", "details": { "name_in_full": "ANJALI SHARMA", "father_name": "Ramesh Sharma", "dob_and_birthplace": "10th June 2006 Mumbai", "marital_status": "Single", "major_disease_suffered": "N/A", "currently_treated_for_disease": "No", "near_relations_afflicted": "No", "allergic_to_substance_or_drug": "No", "had_other_diseases": "No", "accident_requiring_confinement": "No", "suffered_from_deafness": "No", "suffered_from_nervousness": "No", "family_disease_trend": "N/A" }, "page_number": "27 | Page" }
+
+---------------------------------------------------
+
+Page 3
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "REGISTRAR OFFICE, ACADEMIC SECTION", "question": "Have you been immunized against the mentioned diseases (strike off whichever is not applicable)?", "history_of_vaccination": "YES", "immunizations": { "hepatitis_b": "Yes", "polio": "Yes", "diphtheria": "Yes", "tetanus": "Yes", "tuberculosis": "Yes" }, "other_vaccination": "COVID19", "declaration": "All the above answers are to the best of my belief, true and correct.", "signatures": { "candidate": true, "chairman_of_the_board": true }, "note": "The candidate will be held responsible for the accuracy of the above statement. By willfully suppressing any information it will incur the risk of losing admission.", "page_number": "28 | Page" }
+
+---------------------------------------------------
+
+Page 4
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "DEPARTMENT OF GENERAL MEDICINE", "candidateName": "Anjali Sharma", "physicalExamination": { "generalAppearance": "Good", "height": "160.6 cm", "weight": "55.2 kg", "pulse": "70 bts/min", "bloodPressure": "130/74", "oralHygiene": "Good", "cyanosis": "Absent", "pallor": "Absent", "icterus": "Absent", "pedalEdema": "Absent", "clubbing": "Absent" }, "generalExamination": { "chestCircumference": { "inspiration": "30 cm", "expiration": "33 cm" }, "respiratorySystem": "Pass", "circulatorySystem": "Pass", "heartAnyOrganicLesions": "-", "ecg": "Good", "place": "Mumbai", "nervousSystem": "Pass", "locoMotorSystem": "N/A", "skin": "N/A" }, "remarks": "Overall Health - Good", "signature": "XYZ", "pageNumber": "29 | Page" }
+
+---------------------------------------------------
+
+Page 5
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "REGISTRAR OFFICE, ACADEMIC SECTION", "candidateName": "MANI VARMA", "ophthalmologyDetails": { "leftEye": { "distantVision": { "withoutGlasses": "-3.50", "withGlasses": "6/6" }, "nearVision": { "withoutGlasses": "N/A", "withGlasses": "N/A" } }, "rightEye": { "distantVision": { "withoutGlasses": "-3.50", "withGlasses": "6/6" }, "nearVision": { "withoutGlasses": "N/A", "withGlasses": "N/A" } }, "colorVision": "Abnormal", "anyDisease": "Yes", "detectInColorVision": "Abnormal", "detectInColorVisionMention": "Not able to correctly identify", "fieldOfVision": "N/A", "visualAcuity": "-", "remarks": "Cause of colour vision colour blindness" }, "entDetails": { "earsInspection": "Pass", "hearing": { "overall": "Good", "rightEar": "Good", "leftEar": "Good" }, "glandsThyroid": "Pass", "remarks": "-", "angleSquintAxisHearing": { "leftEar": { "normal": "N/A", "abnormal": "-" }, "rightEar": { "normal": "N/A", "abnormal": "-" } }, "remarks2": "N/A" }, "pageNumber": "30" }
+
+---------------------------------------------------
+
+Page 6
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "DEPARTMENT OF GENERAL SURGERY", "candidateName": "Ayush Sharma", "examinations": { "abdomen": { "tenderness": "Pass", "hernia": "Pass", "palpableLiver": "Pass", "spleen": "Pass", "kidneys": "Pass", "anyOther": "NA" }, "genitoUrinarySystem": { "hydrocele": "Pass", "varicocele": "Pass", "fistula": "Pass", "hemorrhoids": "Pass", "varicoseVein": "Pass" }, "lymphadenopathy": { "remarks": "Fit" } }, "signature": "Makesh", "pageNumber": "31" }
+
+---------------------------------------------------
+
+Page 7
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "DEPARTMENT OF OBSTRETRICS AND GYNAECOLOGY", "candidate_name": "Anjali Upadhya", "gynecology_history": { "status": "single", "age_at_menarche": "14", "LMP": "-", "history_of_PCOS": "Yes", "last_visit_to_gynecologist": "No", "last_abdominal_ultrasound": "No", "history_of_tuberculosis": "No", "history_of_gynecologic_surgery": "No", "obvious_gynecological_abnormality": "No", "associated_dysmenorrhea": "None", "examination": "None", "lymphadenopathy_scars_deformities": "N/A", "breasts_and_axilla_examination": "N/A", "abdomen_examination": null }, "menstrual_cycle": { "length": "7 days", "duration_of_flow": "24 hrs", "regularity": "Yes" }, "signature": "K.S. Patel", "page_number": "32" }
+
+---------------------------------------------------
+
+Page 8
+
+{ "institution": "ALL INDIA INSTITUTE OF MEDICAL SCIENCES DEOGHAR", "department": "DEPARTMENT OF BIOCHEMISTRY/PATHOLOGY", "candidateName": "Myli Sharma", "investigations": { "bloodSampleRefNo": "A-121924", "urineSampleRefNo": "C-250145" }, "hematology": { "CBC": "No", "LFT": "No", "RFT": "No", "bloodSugar": "Yes", "bloodGroupAndRhFactor": "Yes" }, "urineExamination": "Pass", "remarks": "Blood sugar levels increased", "signatureAndStamp": "M.N. Vyas", "chestXRay": { "referenceNoAndDate": "D-589 Date- 11/11/2024", "comment": "Pass" }, "pageNumber": "33 | Page" }
