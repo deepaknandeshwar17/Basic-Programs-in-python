@@ -1,16 +1,10 @@
-def binary_search(arr, target):
-    left, right = 0, len(arr) - 1
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n-1):
+        for j in range(n-1-i):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
 
-    while left <= right:
-        mid = (left + right)//2
-        if arr[mid]== target:
-            return mid
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
-            right = mid - 1
-    return -1
-
-arr = [29,293,48,504,492,889,37662,948472,28283634546]
-target = 889
-print(binary_search(arr, target))
+arr = [5,3,6,7,4,2,4,79,1]
+bubble_sort(arr)
+print(arr)
