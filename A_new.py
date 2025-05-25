@@ -1,8 +1,11 @@
-def insertion_sort(arr):
-    n = len(arr)
-    for i in range(1, n):
-        key = arr[i]
-        j = i-1
-
-        while j >= 0 and arr[j] > key:
-            arr[j+1] =
+def two_sum_hash(nums,target):
+    hashmap = {}
+    for i, num in enumerate(nums):
+        diff = target - num
+        if diff in hashmap:
+            return [hashmap[diff],i]
+        hashmap[num]=i
+    
+nums = [2,7,6,5]
+target = 8
+print(two_sum_hash(nums,target))
