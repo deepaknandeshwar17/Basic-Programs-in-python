@@ -1,21 +1,48 @@
-def max_product(nums):
-    if not nums:
-        return 0
-    
-    max_prod = min_prod = result = nums[0]
+def binary_search(nums, target):
+    left = 0
+    right = len(nums) - 1
 
-    for i in range(1, len(nums)):
-        num = nums[i]
+    while left < right:
+        mid = (left + right)//2
 
-        if num < 0:
-            max_prod, min_prod = min_prod, max_prod
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1
+
+def find_min(nums):
+    left = 0
+    right = len(nums) - 1
+
+    while left < right:
+        mid = (left+right)//2
+
+        if nums[mid] > nums[right]:
+            left = mid + 1
+        else:
+            right = mid
+    return left,nums[left]
+
+def find_min_with_dup(nums):
+    left = 0
+    right = len(nums) - 1
+
+    while left < right:
+        mid = (left+right)//2
         
-        max_prod = max(num, num*max_prod)
-        min_prod = min(num, num*min_prod)
+        if nums[mid] > nums[right]:
+            left = mid + 1
+        elif nums[mid] < nums[right]:
+            right = mid
+        else:
+            right = right - 1
+    return left,nums[left]
 
-        result = max(max_prod, result)
-    
-    return result
-
-nums = [1,2,3,4,-5,6]
-print(max_product(nums))
+# nums = [1,2,3,4,5,6,7]
+nums = [3,4,5,6,7,1,2]
+target = 2
+# print(binary_search(nums,target))
+print(find_min_with_dup(nums))
