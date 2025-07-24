@@ -76,7 +76,42 @@ def three_sum(nums):
     
 
 
+def longest_palindrome(s):
+    def expand(left,right):
+        while left >= 0 and right < len(s) and s[left] == s[right]:
+            left = left-1
+            right = right+1
+        return s[left+1:right]
+    
+    result =""
 
+    for i in range(len(s)):
+        temp1 = expand(i,i)
+        temp2 = expand(i,i+1)
+
+        if len(temp1) > len(result):
+            result = temp1
+        if len(temp2) > len(result):
+            result = temp2
+    return result
+
+
+def longest_palindrome(s):
+    def expand(left,right):
+        while left>=0 and right<len(s) and s[left]==s[right]:
+            left = left-1
+            right = right+1
+        return s[left+1:right]
+    result=""
+    for i in range(len(S)):
+        temp1= expand(i,i)
+        temp2= expand(i,i+1)
+
+        if len(temp1) > len(result):
+            result = temp1
+        if len(temp2) > len(result):
+            result=temp2
+    return result
 
 
 
