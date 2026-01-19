@@ -15,6 +15,6 @@ while left < right:
     else:
         right-=1
 else:
-    print("Not found")
+    print("Not found in the arraay")
 
 # print(arr)
